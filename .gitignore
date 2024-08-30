@@ -1,0 +1,14 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+
+# Otros archivos temporales
+*.log
+*.vsidx
+*.vscode
